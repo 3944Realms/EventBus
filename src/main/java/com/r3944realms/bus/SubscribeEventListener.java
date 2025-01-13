@@ -1,7 +1,6 @@
-package com.r3944realms.bus.api;
+package com.r3944realms.bus;
 
-import com.r3944realms.bus.EventListenerFactory;
-import com.r3944realms.bus.IWrapperListener;
+import com.r3944realms.bus.api.*;
 
 import java.lang.reflect.Method;
 

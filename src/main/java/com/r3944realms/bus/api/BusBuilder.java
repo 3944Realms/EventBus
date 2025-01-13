@@ -15,7 +15,7 @@ public interface BusBuilder {
     BusBuilder classChecker(IEventCLassChecker checker);
 
     /**
-     * 允许调用 {@link IEventBus.post(EventPriority, Event)}
+     * 允许调用 {@link IEventBus post(EventPriority, Event)}
      */
     BusBuilder allowPerPhasePost();
     IEventBus build();

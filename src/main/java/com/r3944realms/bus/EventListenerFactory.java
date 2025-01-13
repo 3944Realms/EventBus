@@ -2,7 +2,6 @@ package com.r3944realms.bus;
 
 import com.r3944realms.bus.api.Event;
 import com.r3944realms.bus.api.EventListener;
-import com.r3944realms.bus.api.GeneratedEventListener;
 import org.objectweb.asm.*;
 
 import java.lang.constant.ConstantDescs;
